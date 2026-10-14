@@ -2,17 +2,20 @@
 
 Crypto payment gateway for hosting providers, VPN services and online stores.
 
-- **Coins:** USDT on TRC20, ERC20 and BEP20, plus 50+ other coins
+- **Coins:** USDT on 16 networks (TRC20, ERC20 and BEP20 straight to our addresses, plus Solana, TON, Polygon and others) and 70+ other coins
 - **Fee:** 1% per payment
 - **Invoices:** from $0.50 to $100,000, test mode for trial payments
 - **Webhooks:** signed with HMAC-SHA256, automatic retries
 
 ## Ready-made modules
 
+13 ready-made modules for billing panels, stores and VPN panels:
+
 | Platform | Module |
 |---|---|
 | WHMCS | [pay.snapex.pro/integrations/whmcs](https://pay.snapex.pro/integrations/whmcs) |
 | BILLmanager | [pay.snapex.pro/integrations/billmanager](https://pay.snapex.pro/integrations/billmanager) |
+| Blesta | [pay.snapex.pro/integrations/blesta](https://pay.snapex.pro/integrations/blesta) |
 | WooCommerce | [pay.snapex.pro/integrations/woocommerce](https://pay.snapex.pro/integrations/woocommerce) |
 | CS-Cart | [pay.snapex.pro/integrations/cs-cart](https://pay.snapex.pro/integrations/cs-cart) |
 | FOSSBilling | [pay.snapex.pro/integrations/fossbilling](https://pay.snapex.pro/integrations/fossbilling) |
