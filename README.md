@@ -2,20 +2,21 @@
 
 Crypto payment gateway for hosting providers, VPN services and online stores.
 
-- **Coins:** USDT on 16 networks (TRC20, ERC20 and BEP20 straight to our addresses, plus Solana, TON, Polygon and others) and 70+ other coins
+- **Coins:** USDT on 16 networks (TRC20, ERC20 and BEP20 straight to our addresses, plus Solana and others) and 60+ other coins
 - **Fee:** 1% per payment
 - **Invoices:** from $0.50 to $100,000, test mode for trial payments
 - **Webhooks:** signed with HMAC-SHA256, automatic retries
 
 ## Ready-made modules
 
-13 ready-made modules for billing panels, stores and VPN panels:
+14 ready-made modules for billing panels, stores and VPN panels:
 
 | Platform | Module | Source |
 |---|---|---|
 | WHMCS | [pay.snapex.pro/integrations/whmcs](https://pay.snapex.pro/integrations/whmcs) | [whmcs-crypto-payment](https://github.com/snapexpay/whmcs-crypto-payment) |
 | BILLmanager | [pay.snapex.pro/integrations/billmanager](https://pay.snapex.pro/integrations/billmanager) | — |
 | Blesta | [pay.snapex.pro/integrations/blesta](https://pay.snapex.pro/integrations/blesta) | [blesta-crypto-payment](https://github.com/snapexpay/blesta-crypto-payment) |
+| WISECP | [snapexpay-wisecp-1.0.2.zip](https://pay.snapex.pro/downloads/wisecp/snapexpay-wisecp-1.0.2.zip) | [wisecp-crypto-payment](https://github.com/snapexpay/wisecp-crypto-payment) |
 | WooCommerce | [pay.snapex.pro/integrations/woocommerce](https://pay.snapex.pro/integrations/woocommerce) | [woocommerce-crypto-payment](https://github.com/snapexpay/woocommerce-crypto-payment) |
 | CS-Cart | [pay.snapex.pro/integrations/cs-cart](https://pay.snapex.pro/integrations/cs-cart) | — |
 | FOSSBilling | [pay.snapex.pro/integrations/fossbilling](https://pay.snapex.pro/integrations/fossbilling) | [fossbilling-crypto-payment](https://github.com/snapexpay/fossbilling-crypto-payment) |
