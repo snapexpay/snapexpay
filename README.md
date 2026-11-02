@@ -30,6 +30,13 @@ Crypto payment gateway for hosting providers, VPN services and online stores.
 
 Setup guides: [pay.snapex.pro/guides](https://pay.snapex.pro/guides)
 
+## MCP server for AI agents
+
+MCP server for crypto payments: an AI agent opens its own merchant account and accepts, sends and exchanges crypto.
+
+- Remote: `https://pay.snapex.pro/mcp` (Streamable HTTP) · local: `npx -y snapex-pay-mcp`
+- Source: [snapex-pay-mcp](https://github.com/snapexpay/snapex-pay-mcp) · docs: [pay.snapex.pro/mcp](https://pay.snapex.pro/mcp)
+
 ## Contact
 
 - Website: [pay.snapex.pro](https://pay.snapex.pro/)
