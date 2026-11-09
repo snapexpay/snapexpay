@@ -23,7 +23,7 @@ Crypto payment gateway for hosting providers, VPN services and online stores.
 | Paymenter | [pay.snapex.pro/integrations/paymenter](https://pay.snapex.pro/integrations/paymenter) | [paymenter-crypto-payment](https://github.com/snapexpay/paymenter-crypto-payment) |
 | Xboard | [pay.snapex.pro/integrations/xboard](https://pay.snapex.pro/integrations/xboard) | [xboard-crypto-payment](https://github.com/snapexpay/xboard-crypto-payment) |
 | Marzban | [pay.snapex.pro/integrations/marzban](https://pay.snapex.pro/integrations/marzban) | [marzban-crypto-payment](https://github.com/snapexpay/marzban-crypto-payment) |
-| 3x-ui | [pay.snapex.pro/integrations/3x-ui](https://pay.snapex.pro/integrations/3x-ui) | — |
+| 3x-ui | [pay.snapex.pro/integrations/3x-ui](https://pay.snapex.pro/integrations/3x-ui) | [3x-ui-crypto-payment](https://github.com/snapexpay/3x-ui-crypto-payment) |
 | Remnawave | [pay.snapex.pro/integrations/remnawave](https://pay.snapex.pro/integrations/remnawave) | — |
 | Telegram VPN bot | [pay.snapex.pro/integrations/telegram-vpn-bot](https://pay.snapex.pro/integrations/telegram-vpn-bot) | — |
 | n8n | [pay.snapex.pro/integrations/n8n](https://pay.snapex.pro/integrations/n8n) | — |
