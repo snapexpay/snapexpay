@@ -6,6 +6,7 @@ Crypto payment gateway for hosting providers, VPN services and online stores.
 - **Fee:** 1% per payment
 - **Invoices:** from $0.50 to $100,000, test mode for trial payments
 - **Webhooks:** signed with HMAC-SHA256, automatic retries
+- **On request:** Russian rubles by QR code (Russia) and Alipay — see Contact below
 
 ## Ready-made modules
 
